@@ -1,0 +1,37 @@
+.box-one {
+    background-color: red;
+    height: 360px;
+    margin-left: 4px;
+    position: absolute;
+    top: 10px;
+    width: 360px;
+
+}
+
+.box-two {
+    background-color: purple;
+    height: 200px;
+    margin-top: 80px;
+    margin-left: 80px;
+    position: absolute;
+    width: 200px;
+
+}
+
+.box-three {
+    background-color: yellow;
+    height: 103px;
+    margin-top: 80px;
+    margin-left: 80px;
+    position: absolute;
+    width: 103px;
+
+}
+
+body a{
+    display: inline-block;
+    position: absolute;
+    top: 450px;   
+    font-size: 25px;
+}
+
