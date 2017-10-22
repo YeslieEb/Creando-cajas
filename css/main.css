@@ -5,7 +5,7 @@
     position: absolute;
     top: 10px;
     width: 360px;
-
+    
 }
 
 .box-two {
@@ -15,7 +15,7 @@
     margin-left: 80px;
     position: absolute;
     width: 200px;
-
+    
 }
 
 .box-three {
@@ -25,13 +25,39 @@
     margin-left: 80px;
     position: absolute;
     width: 103px;
-
+    
 }
 
-body a{
-    display: inline-block;
+section .box1 {
+    background-color: blue;
+    height: 360px;
+    margin-left: 4px;
     position: absolute;
-    top: 450px;   
-    font-size: 25px;
+    top: 380px;
+    width: 360px;
+    display:block
+    
+
 }
 
+section .box2 {
+    background-color: green;
+    height: 200px;
+    margin-top: 451px;
+    margin-left: 81px;
+    position: absolute;
+    width: 200px;
+    display: block
+    
+}
+
+section .box3 {
+    background-color: black;
+    height: 78px;
+    margin-top: 373px;
+    margin-left: 4px;
+    position: absolute;
+    width: 77px;
+    display: block
+    
+}
